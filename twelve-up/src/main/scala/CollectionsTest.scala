@@ -1,4 +1,4 @@
-import scala.collection.compat.IterableOnce
+import scala.collection.compat._
 
 // sbt +twelve-up/run
 object CollectionsTest extends App {
